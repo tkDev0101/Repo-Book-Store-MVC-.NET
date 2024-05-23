@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\myend\\Documents\\GitHub\\tk-Projects\\02. Web Development Projects\\Repo-Book-Store-MVC-.NET\\BulkyWebTK\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81FE1A33-6695-4861-B403-57B35A4873A2}|BulkyWebTK.csproj|c:\\users\\myend\\documents\\github\\tk-projects\\02. web development projects\\repo-book-store-mvc-.net\\bulkywebtk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81FE1A33-6695-4861-B403-57B35A4873A2}|BulkyWebTK.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\myend\\Documents\\GitHub\\tk-Projects\\02. Web Development Projects\\Repo-Book-Store-MVC-.NET\\BulkyWebTK\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\myend\\Documents\\GitHub\\tk-Projects\\02. Web Development Projects\\Repo-Book-Store-MVC-.NET\\BulkyWebTK\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:32:59.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
