@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BulkyWebTK")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d476811b6a2272e60639106c865fc1f41036dadb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce27535f59e22900b18424f77cb7c76741e6562d")]
 [assembly: System.Reflection.AssemblyProductAttribute("BulkyWebTK")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BulkyWebTK")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

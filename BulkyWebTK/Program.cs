@@ -1,7 +1,17 @@
+using BulkyWebTK.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+//added these services
+                              //DbContext in project is using UseSqlServer -> pass ConnectionString
+builder.Services.AddDbContext<ApplicationDbContext>(options=> 
+                                                    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+
 
 var app = builder.Build();
 
